@@ -1,1 +1,1 @@
-<a href="https://patika.dev.com">Patika</a>
+<a href="https://app.patika.dev/knozhupgrade">Patika</a>
