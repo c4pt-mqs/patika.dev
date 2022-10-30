@@ -1,0 +1,85 @@
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 351px;
+    height: 113px;
+
+}
+
+p {
+    text-align: center;
+
+}
+
+p.one {
+    display: block;
+    margin-top: -15px;
+    text-align: center;
+}
+
+div.general {
+    background-color: rgb(238,238,238);
+    margin: 60px;
+    margin-top: -16px;
+    margin-bottom: 0px;
+}
+
+table {
+    border: 0px;
+    width: 90%;
+    margin-left: 60px;
+}
+
+.center-block {
+    margin: auto;
+    display: block;
+    margin-top: -15px;
+  }
+
+.center-inline {
+    margin: auto;
+    display: inline-block;
+}
+
+div.center-box {
+    display: block;
+    margin: auto;
+    text-align: center;
+    width: 90%;
+
+}
+
+
+td.one {
+    width: 37%;
+    background-color: rgb(126,228,218);
+    font-size: 16px;
+}
+
+td.two {
+    width: 23%;
+    background-color: rgb(111,204,194);
+    font-size: 13px;
+}
+
+td.three {
+    width: 40%;
+    background-color: rgb(98,179,170);
+    font-size: 13px;
+
+}
+
+a.one {
+    text-align: center;
+    display: block;
+    margin-top: -15px;
+
+}
+
+a.two {
+    text-align: center;
+    display: block;
+    margin: 5px;
+
+}
