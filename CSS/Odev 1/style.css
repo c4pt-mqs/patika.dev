@@ -1,0 +1,34 @@
+h1.baslik1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: coral;
+}
+
+a.text_edit {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: cornflowerblue;
+}
+
+div.editor {
+    text-align: center;
+}
+
+hr.customize {
+    width: 300px;
+    text-align: center;
+  }
+
+ul.edit {
+    list-style-position: inside;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p.edit {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img.edit {
+    height: 275px;
+    width: 300px;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
